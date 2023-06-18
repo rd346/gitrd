@@ -6,6 +6,7 @@ public class GitJune2ndClass {
 		// TODO Auto-generated method stub
 System.out.println("2nd class of git june");
 System.out.println("2nd sop of 2nd class");
+System.out.println("3rd sop of 2nd class");
 	}
 
 }
